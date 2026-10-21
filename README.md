@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Tadelola 👋
 
-<!--
-**burjnx/burjnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical and Electronics Engineering graduate from the **University of Lagos**. I build across hardware and software: embedded systems on the ESP32, machine learning models that run on microcontrollers, and web apps in React.
 
-Here are some ideas to get you started:
+- 🔌 Final-year project: an LSTM + Q-learning power manager for a solar-powered IoT node, running on an ESP32
+- 🛠️ Industrial training at **Nithub (NITDA IT Hub), UNILAG** in hardware and embedded systems
+- 📍 Lagos, Nigeria · open to entry-level roles in software and embedded systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I use
+
+**Languages:** Python · JavaScript · C/C++ (Arduino) · Dart
+**Web and mobile:** React · React Native (Expo) · Flutter · Tailwind CSS · FastAPI
+**Embedded:** ESP32 · Arduino IDE · I2C sensors · LoRa · solar charging circuits
+**Machine learning:** TensorFlow / Keras · TensorFlow Lite Micro · NumPy · pandas
+
+### Featured
+
+- [**Tasker**](https://github.com/burjnx/tasker-auth-demov1) — team task-management web app (React, Tailwind) built at Nithub
+- [**Portfolio**](https://github.com/burjnx/personal-portfolio) — my personal site, built from scratch in HTML, CSS and JavaScript
+
+### Contact
+
+📧 [adulojutadelolaburj@gmail.com](mailto:adulojutadelolaburj@gmail.com)
