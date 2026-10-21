@@ -15,8 +15,8 @@ Electrical and Electronics Engineering graduate from the **University of Lagos**
 
 ### Featured
 
-- [**Tasker**](https://github.com/burjnx/tasker-auth-demov1) — team task-management web app (React, Tailwind) built at Nithub
-- [**Portfolio**](https://github.com/burjnx/personal-portfolio) — my personal site, built from scratch in HTML, CSS and JavaScript
+- [**Tasker**](https://github.com/burjnx/tasker-auth-demov1) — task-management web app with a kanban board (React, Tailwind), built at Nithub · [live demo](https://burjnx.github.io/tasker-auth-demov1/)
+- [**Portfolio**](https://github.com/burjnx/personal-portfolio) — my personal site, built from scratch in HTML, CSS and JavaScript · [live](https://burjnx.github.io/personal-portfolio/)
 
 ### Contact
 
