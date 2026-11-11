@@ -8,9 +8,9 @@ Electrical and Electronics Engineering graduate from the **University of Lagos**
 
 ### Tech I use
 
-**Languages:** Python · JavaScript · C/C++ (Arduino) · Dart
-**Web and mobile:** React · React Native (Expo) · Flutter · Tailwind CSS · FastAPI
-**Embedded:** ESP32 · Arduino IDE · I2C sensors · LoRa · solar charging circuits
+**Languages:** C/C++ (Arduino) · Python · JavaScript · HTML · CSS
+**Web:** React · Tailwind CSS
+**Embedded:** ESP32 · Arduino · I2C sensors · solar charging circuits · KiCad (basics)
 **Machine learning:** TensorFlow / Keras · TensorFlow Lite Micro · NumPy · pandas
 
 ### Featured
