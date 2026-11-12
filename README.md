@@ -1,10 +1,10 @@
 ## Hi, I'm Tadelola 👋
 
-Electrical and Electronics Engineering graduate from the **University of Lagos**. I build across hardware and software: embedded systems on the ESP32, machine learning models that run on microcontrollers, and web apps in React.
+Electrical and Electronics Engineering graduate from the **University of Lagos**. I build across hardware and software, from microcontrollers and a solar-powered sensor node to machine learning and web apps. Hands-on, quick to learn, and keen to grow.
 
 - 🔌 Final-year project: an LSTM + Q-learning power manager for a solar-powered IoT node, running on an ESP32
 - 🛠️ Industrial training at **Nithub (NITDA IT Hub), UNILAG** in hardware and embedded systems
-- 📍 Lagos, Nigeria · open to entry-level roles in software and embedded systems
+- 📍 Lagos, Nigeria · open to roles and placements across Nigeria, in engineering, technology or anywhere I can learn and contribute
 
 ### Tech I use
 
@@ -20,4 +20,4 @@ Electrical and Electronics Engineering graduate from the **University of Lagos**
 
 ### Contact
 
-📧 [adulojutadelolaburj@gmail.com](mailto:adulojutadelolaburj@gmail.com)
+📧 [adulojutadelolaburj@gmail.com](mailto:adulojutadelolaburj@gmail.com) · 🌐 [Portfolio](https://burjnx.github.io/personal-portfolio/) · 📄 [CV](https://burjnx.github.io/personal-portfolio/Tadelola-Aduloju-Burgess-CV.pdf)
