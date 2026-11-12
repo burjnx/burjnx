@@ -1,6 +1,6 @@
 ## Hi, I'm Tadelola 👋
 
-Electrical and Electronics Engineering graduate from the **University of Lagos**. I build across hardware and software, from microcontrollers and a solar-powered sensor node to machine learning and web apps. Hands-on, quick to learn, and keen to grow.
+Electrical and Electronics Engineering graduate from the **University of Lagos**. I build across hardware and software, from microcontrollers and a solar-powered sensor node to web apps. Hands-on, quick to learn, and keen to grow.
 
 - 🔌 Final-year project: an LSTM + Q-learning power manager for a solar-powered IoT node, running on an ESP32
 - 🛠️ Industrial training at **Nithub (NITDA IT Hub), UNILAG** in hardware and embedded systems
@@ -11,8 +11,7 @@ Electrical and Electronics Engineering graduate from the **University of Lagos**
 - **Hardware:** ESP32 · Arduino · circuit assembly · soldering · I2C sensors · solar charging circuits · KiCad (basics) · Proteus
 - **Programming:** C/C++ (Arduino) · Python · JavaScript · HTML · CSS
 - **Web:** React · Tailwind CSS
-- **Machine learning:** TensorFlow / Keras · TensorFlow Lite Micro · NumPy · pandas
-- **Tools:** Git and GitHub · Arduino IDE · Google Colab · MATLAB (coursework)
+- **Tools:** Git and GitHub · Arduino IDE · MATLAB (coursework)
 
 ### Featured
 
