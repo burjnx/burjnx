@@ -2,7 +2,7 @@
 
 Electrical and Electronics Engineering graduate from the **University of Lagos**. I build across hardware and software, from microcontrollers and a solar-powered sensor node to web apps. Hands-on, quick to learn, and keen to grow.
 
-- 🔌 Final-year project: a solar-powered sensor node on an ESP32 that manages its own power
+- 🔌 Final-year project: an LSTM + Q-learning power manager for a solar-powered IoT node, running on an ESP32
 - 🛠️ Industrial training at **Nithub (NITDA IT Hub), UNILAG** in hardware and embedded systems
 - 📍 Lagos, Nigeria · open to roles and placements across Nigeria, in engineering, technology or anywhere I can learn and contribute
 
