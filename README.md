@@ -8,10 +8,11 @@ Electrical and Electronics Engineering graduate from the **University of Lagos**
 
 ### Tech I use
 
-**Languages:** C/C++ (Arduino) · Python · JavaScript · HTML · CSS
+**Hardware:** ESP32 · Arduino · circuit assembly · soldering · I2C sensors · solar charging circuits · KiCad (basics) · Proteus
+**Programming:** C/C++ (Arduino) · Python · JavaScript · HTML · CSS
 **Web:** React · Tailwind CSS
-**Embedded:** ESP32 · Arduino · I2C sensors · solar charging circuits · KiCad (basics)
 **Machine learning:** TensorFlow / Keras · TensorFlow Lite Micro · NumPy · pandas
+**Tools:** Git and GitHub · Arduino IDE · Google Colab · MATLAB (coursework)
 
 ### Featured
 
